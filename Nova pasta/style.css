@@ -144,7 +144,7 @@ aside {
 }
 
 aside > h3 {
-    background-color: var(--cor3);
+    background-color: var(--cor2);
     margin: -10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
@@ -175,6 +175,6 @@ footer a {
     color: white;
 }
 
-footer > a::after {
-    content:'\01F517';
+footer > p::after {
+    content: '\FE0F';
 }
