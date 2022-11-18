@@ -144,10 +144,11 @@ aside {
 }
 
 aside > h3 {
-    background-color: var(--cor5);
+    background-color: var(--cor3);
     margin: -10px;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+    text-indent: 10px;
 }
 
 aside > p {
@@ -175,5 +176,5 @@ footer a {
 }
 
 footer > a::after {
-    list-style-type:'\01F517';
+    content:'\01F517';
 }
