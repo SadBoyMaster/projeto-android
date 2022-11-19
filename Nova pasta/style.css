@@ -48,7 +48,7 @@ header h1 {
 header p {
     font-size: 1.1em;
     min-width: 320px;
-    max-width: 600px;
+    max-width: 500px;
     margin: auto;
     color: white;
     text-align: center;
@@ -63,7 +63,7 @@ nav {
 
 nav a {
     color: white;
-    
+    padding-top: 5px;
     text-decoration: none;
     font-weight: bolder;
     transition-duration: 0.5s;
