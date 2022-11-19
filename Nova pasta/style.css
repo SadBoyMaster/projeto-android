@@ -62,7 +62,7 @@ nav {
 
 nav a {
     color: white;
-    margin-right: 0px;
+    margin-top: 5px;
     text-decoration: none;
     font-weight: bolder;
     transition-duration: 0.5s;
